@@ -1,4 +1,4 @@
-package com.restapp.hectorsrestapp.Order;
+package com.restapp.hectorsrestapp.Employee;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

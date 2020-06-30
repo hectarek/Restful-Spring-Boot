@@ -1,4 +1,4 @@
-package com.restapp.hectorsrestapp.Order;
+package com.restapp.hectorsrestapp.Employee;
 
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.*;
 
